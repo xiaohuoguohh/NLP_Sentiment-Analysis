@@ -24,3 +24,6 @@ For Sequence Model, I tried two models, Bi-RNN and Bi-LSTM. Since the amount of 
 <div align=center>
 <img width="514" alt="Screen Shot 2021-06-22 at 10 38 12" src="https://user-images.githubusercontent.com/78587287/122856845-1f3c0580-d34a-11eb-9bfe-16c23127b928.png">
 </div>  
+<div align=center>
+<img width="460" alt="Screen Shot 2021-06-22 at 10 37 59" src="https://user-images.githubusercontent.com/78587287/122858043-2e23b780-d34c-11eb-85f1-3600f36fb1a8.png">
+</div>  
