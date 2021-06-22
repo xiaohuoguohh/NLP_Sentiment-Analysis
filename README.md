@@ -18,3 +18,9 @@ From the results, it can be seen that the semantic accuracy of the Word2Vec with
 <div align=center>
 <img width="777" alt="Screen Shot 2021-06-22 at 10 38 35" src="https://user-images.githubusercontent.com/78587287/122856587-9fae3680-d349-11eb-97a4-2bb48e21667f.png">
 </div>  
+
+For Sequence Model, I tried two models, Bi-RNN and Bi-LSTM. Since the amount of data is small and the selected word vector dimension is only 50, I set the number of features of the hidden layer to 64, and there is only one rnn or lstm layer. The experimental results are shown in result. The final Bi-LSTM model performed better, with a higher F1 score, and trained for 300 epochs with a learning rate of 0.005 to obtain the best results.
+
+<div align=center>
+<img width="514" alt="Screen Shot 2021-06-22 at 10 38 12" src="https://user-images.githubusercontent.com/78587287/122856845-1f3c0580-d34a-11eb-9bfe-16c23127b928.png">
+</div>  
