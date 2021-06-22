@@ -1,2 +1,2 @@
-Data for COMP5046 A1.
+Data for Sentiment Analysis.
 - Opinion Lexicon file
